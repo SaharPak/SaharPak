@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sahar 👋</h1>
 
 <p align="center">
-  <strong>Open-source builder & Product Manager</strong> based in Espoo, Finland<br/>
+  <strong>Open-source builder & Product Manager</strong> based in Finland<br/>
   Shipping developer-facing platforms, AI tools, and integrations
 </p>
 
