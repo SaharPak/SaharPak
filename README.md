@@ -49,18 +49,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaharPak&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="Sahar's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaharPak&layout=compact&theme=default&hide_border=true" alt="Top languages" />
-</p>
-
----
-
 ### 🌱 What I'm working on
 
 - Scaling **cv-builder** into a fully community-driven open-source product
