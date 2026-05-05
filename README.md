@@ -17,7 +17,7 @@
 
 ### About me
 
-- 🚀 **Senior Product Architect** at RELEX Solutions, leading a company-wide Auth0 integration across 10+ teams and 500+ enterprise customers
+- 🚀 **Senior Product Architect** at a Unicorn SaaS company, leading a company-wide Auth0 integration across 10+ teams and 500+ enterprise customers
 - 🌍 **Founder of Tech Immigrants**, a 50K+ open-source community where tech professionals share their knowledge and stories
 - 🔧 I build with **Cursor, Claude Code, n8n, Cloudflare** — bridging product thinking with hands-on builder experience
 - 💡 I care about open source, developer empathy, and helping international talent navigate tech careers
