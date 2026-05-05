@@ -6,11 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/saharpak/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://medium.com/@saharlead"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" /></a>
-  <a href="https://x.com/saharlead"><img alt="X" src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" /></a>
   <a href="https://www.youtube.com/@TechImmigrants"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
-  <a href="mailto:sahar.pakseresht@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -30,7 +27,7 @@
 |---------|------------|-------|
 | 🎯 **[cvroast.dev](https://github.com/SaharPak/cvroast-dev)** | AI-powered CV scoring tool. Free, no signup, open source (MIT). | Claude API · Cloudflare Pages/Functions |
 | 📝 **[TechImmigrants/cv-builder](https://github.com/TechImmigrants/cv-builder)** | Open-source CV builder, scaling cvroast.dev with the community | TypeScript · Open Source |
-| 🌐 **Tech Immigrants Community** | 50K+ followers across [YouTube](https://www.youtube.com/@TechImmigrants), [Telegram](https://t.me/TwitterImmigrant), [LinkedIn](https://www.linkedin.com/company/techimmigrants/), [X](https://x.com/tech_immigrants) | Content · Community |
+| 🌐 **Tech Immigrants Community** | 50K+ followers across [YouTube](https://www.youtube.com/@TechImmigrants) and [Telegram](https://t.me/TwitterImmigrant) | Content · Community |
 | 🏠 **Home Cloud** | Smart home automation: 40 sensors, 18+ automations, zero cloud subscriptions | Home Assistant · Docker · Ansible |
 
 ---
