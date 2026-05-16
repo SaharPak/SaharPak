@@ -27,7 +27,7 @@
 |---------|------------|-------|
 | 🎯 **[cvroast.dev](https://github.com/SaharPak/cvroast-dev)** | AI-powered CV scoring tool. Free, no signup, open source (MIT). | Claude API · Cloudflare Pages/Functions |
 | 📝 **[TechImmigrants/cv-builder](https://github.com/TechImmigrants/cv-builder)** | Open-source CV builder, scaling cvroast.dev with the community | TypeScript · Open Source |
-| 🌐 **Tech Immigrants Community** | 50K+ followers across [YouTube](https://www.youtube.com/@TechImmigrants) and [Telegram](https://t.me/TwitterImmigrant) | Content · Community |
+| 🌐 **Tech Immigrants Community** | 50K+ followers across [YouTube](https://www.youtube.com/@TechImmigrants) and [Telegram](https://t.me/Tech_Immigrants) | Content · Community |
 | 🏠 **Home Cloud** | Smart home automation: 40 sensors, 18+ automations, zero cloud subscriptions | Home Assistant · Docker · Ansible |
 
 ---
