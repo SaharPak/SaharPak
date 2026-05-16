@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sahar 👋</h1>
 
 <p align="center">
-  <strong>Open-source builder & Product Manager</strong> based in Finland<br/>
+  <strong>Open-source builder & Product Manager</strong> based in Espoo, Finland<br/>
   Shipping developer-facing platforms, AI tools, and integrations
 </p>
 
@@ -51,9 +51,3 @@
 - Scaling **cv-builder** into a fully community-driven open-source product
 - Producing more episodes for **Tech Immigrants** on AI, careers, and immigration
 - Exploring agentic AI patterns and shipping small builder tools
-
----
-
-<p align="center">
-  <em>Open to product roles in developer tools, AI infrastructure, and open-source ecosystems.</em>
-</p>
