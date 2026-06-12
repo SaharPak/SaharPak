@@ -8,7 +8,6 @@
 <p align="center">
   <a href="https://medium.com/@saharlead"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" /></a>
   <a href="https://www.youtube.com/@TechImmigrants"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
-  <a href="https://t.me/Tech_Immigrants"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" /></a>
 </p>
 
 ---
