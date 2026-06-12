@@ -26,7 +26,7 @@
 
 | Project | Description | Stack |
 |---------|------------|-------|
-| 🌐 **Tech Immigrants Community** | 53K+ followers across [YouTube](https://www.youtube.com/@TechImmigrants) and [Telegram](https://t.me/Tech_Immigrants), built from zero | Community · Events · Content |
+| 🌐 **Tech Immigrants Community** | 53K+ followers across [YouTube](https://www.youtube.com/@TechImmigrants), [Telegram channel](https://t.me/Tech_Immigrants), and [Telegram group](https://t.me/techimmigrants), built from zero | Community · Events · Content |
 | 🎯 **[cvroast.dev](https://github.com/SaharPak/cvroast-dev)** | AI-powered CV scoring tool. Free, no signup, open source (MIT) | Claude API · Cloudflare Pages/Functions |
 | 📝 **[TechImmigrants/cv-builder](https://github.com/TechImmigrants/cv-builder)** | Open-source CV builder, scaled with the community (36 contributors) | TypeScript · Open Source |
 | 👥 **[productbuilders.app](https://productbuilders.app)** | A space where product builders show their work and get feedback in live demo sessions | Community · Product |
